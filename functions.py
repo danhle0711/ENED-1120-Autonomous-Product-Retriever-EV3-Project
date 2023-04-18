@@ -105,6 +105,7 @@ def barcode_type_identifier(code_list):
         result = 4
     else:
         print('Error, making random guess')
+        random.seed(time.time())
         result = random.randint(1, 4)
     print('Barcode type: {0}'.format(result))
     return result
