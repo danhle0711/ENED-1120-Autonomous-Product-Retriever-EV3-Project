@@ -2,4 +2,4 @@
 Python code with ev3dev2 library
 EV3 Robot running Brickman
 
-The final demo is still unfinished, will try to pick up sometime in the future.
+The full track for the final demo is still unfinished, will try to pick up sometime in the future.
